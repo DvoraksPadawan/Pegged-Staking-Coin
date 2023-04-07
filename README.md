@@ -1,7 +1,7 @@
 # Pagged-Staking-Coin
 
 Smart contract which simulates Binance,
-users can deposit tokens here and can get staking rewards for their Beth (Binance Eth),
+users can deposit tokens here and can get staking rewards for their Beth (Binance Eth-Pagged token),
 as long as they have their Beth on Binance (this is same with real Binance).
 
 The (open source) contract is deployed here:
