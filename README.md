@@ -1,6 +1,6 @@
 # Pagged-Staking-Coin
 
-Smart contract simulates Binance,
+Smart contract which simulates Binance,
 users can deposit tokens here and can get staking rewards for their Beth (Binance Eth),
 as long as they have their Beth on Binance (this is same with real Binance).
 
